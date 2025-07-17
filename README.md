@@ -19,7 +19,6 @@ Promover a conscientização ambiental através de um quiz divertido e informati
 - Operações matemáticas
 - Estruturas condicionais (`if`, `else`)
 - Laços de repetição (`while`)
-- Funções
 - Entrada e saída de dados com `input()` e `print()`
 
 ## 📸 Demonstração
