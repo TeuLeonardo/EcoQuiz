@@ -23,7 +23,7 @@ Promover a conscientização ambiental através de um quiz divertido e informati
 
 ## 📸 Demonstração
 
- <img width="100%" align="center" src="https://cdn.discordapp.com/attachments/1007682144899960845/1395539984215441528/image.png?ex=687ad164&is=68797fe4&hm=b988bd97d3bcbd07c810af71ce605130897417efa1bc58a82fd7af516aa26e6d&">
+ <img width="100%" align="center" src="https://cdn.discordapp.com/attachments/1007682144899960845/1395539984215441528/image.png?ex=688c9da4&is=688b4c24&hm=9fb3bc92431fde0f4341350dd075eea33d001730c1e7be35f663082174ae18e4&">
 
 ## 🌱 Sobre o projeto
 
